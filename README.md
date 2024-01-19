@@ -18,6 +18,6 @@ https://github.com/padmashree138/HTML-CSS-Intro/assets/156641444/00ff38a8-591c-4
 
 ![10](https://github.com/padmashree138/HTML-CSS-Intro/assets/156641444/5988d94e-3a4e-40f3-935d-d6930dcdf2f0)
 ![9](https://github.com/padmashree138/HTML-CSS-Intro/assets/156641444/55991b44-d8d7-403e-b69a-aca40b9b2f45)
-![10](https://github.com/padmashree138/HTML-CSS-Intro/assets/156641444/3047df92-06b1-4355-b70e-83ec4b1a98e7)
+
 ![grid](https://github.com/padmashree138/HTML-CSS-Intro/assets/156641444/cd753124-7743-4f00-8145-94a23b7b44ee)
 ![position](https://github.com/padmashree138/HTML-CSS-Intro/assets/156641444/bd79e7f4-a684-4686-bebf-93becb391cf8)
